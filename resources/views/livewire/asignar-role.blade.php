@@ -10,7 +10,7 @@
                     ROL
                 </td>
                 <td>
-                    ESTADOO0
+                    ESTADOOPrueba
                 </td>
 
             </tr>
