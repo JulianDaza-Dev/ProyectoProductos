@@ -10,7 +10,7 @@
                     ROL
                 </td>
                 <td>
-                    ESTADO
+                    ESTADOO
                 </td>
 
             </tr>
